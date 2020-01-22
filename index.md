@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 薛兆丰的经济学
 
 You can use the [editor on GitHub](https://github.com/wyq-maker/wyq.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
